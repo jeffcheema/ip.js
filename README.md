@@ -1,6 +1,7 @@
 # ip.js
 # About
 This is a simple jquery plugin which finds out the user's IP address using javascript and  no backend or side-script.
+Javascript file on my site: http://jeffcheema.tk/js/ip.js
 # Usage
 Make sure you have jquery imported or this won't work.
 The plugin has a function which returns a user's IP.
